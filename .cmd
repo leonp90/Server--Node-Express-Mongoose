@@ -1,0 +1,1 @@
+heroku config:set URL_DB=mongodb://localhost/marenostrum
